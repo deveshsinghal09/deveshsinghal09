@@ -8,17 +8,19 @@
   <a href="https://codolio.com/profile/devesh_singhal"><img src="https://img.shields.io/badge/Codolio-Coding%20Profile-54dfbc?style=flat-square" alt="Codolio profile" /></a>
 </p>
 
-<p align="center"><a href="#about">About</a> · <a href="#selected-projects">Projects</a> · <a href="#technology">Technology</a> · <a href="#problem-solving">Problem solving</a> · <a href="#connect">Connect</a></p>
+<p align="center"><a href="#-about-me">About</a> · <a href="#selected-projects">Projects</a> · <a href="#-tech-stack">Technology</a> · <a href="#-github-activity">Activity</a> · <a href="#problem-solving">Problem solving</a> · <a href="#connect">Connect</a></p>
 
-## About
+## 👨‍💻 About me
 
 I'm **Devesh Singhal**. My work brings together **cloud infrastructure, applied AI, and security-focused software**—from comparing travel exposure to exploring connected evidence and understanding dependency risk.
 
 I enjoy turning complex data into something people can inspect and use: a route comparison, an investigation graph, an analyst workspace, or an explanation of why a dependency needs attention.
 
-- **Cloud:** serverless APIs, data storage, infrastructure, and deployment on AWS.
-- **Applied AI:** grounded explanations, analytical workflows, and persistent agent context.
-- **Security:** evidence provenance, graph investigations, and dependency analysis.
+- **Currently building:** cloud-connected applications, explainable AI workflows, and security investigation tools.
+- **Interested in:** API architecture, serverless systems, graph-based reasoning, and grounded AI.
+- **Engineering mindset:** Build → Test → Understand → Improve.
+
+I care about interfaces that make complex systems understandable, explanations tied to evidence, and documentation that makes assumptions and tradeoffs clear.
 
 ## Selected projects
 
@@ -35,7 +37,7 @@ A team-built, AWS-native journey planner that compares real road routes, travel 
 
 `React` `TypeScript` `Python` `FastAPI` `AWS` `CDK`
 
-[Repository](https://github.com/deveshsinghal09/ecoroute-ai) · [Application](https://main.d3txif33djiy59.amplifyapp.com/) · [Walkthrough](https://youtu.be/4XNr6BEzIzI)
+[Repository](https://github.com/deveshsinghal09/ecoroute-ai) · [Live Demo](https://main.d3txif33djiy59.amplifyapp.com/) · [Walkthrough](https://youtu.be/4XNr6BEzIzI)
 
 <sub>Repository screenshot. Exposure estimates are environmental comparisons, not medical-risk measurements.</sub>
 
@@ -54,7 +56,7 @@ A graph-powered security investigation platform with a React and Three.js explor
 
 `React` `TypeScript` `Three.js` `Python` `FastAPI` `FalkorDB`
 
-[Repository](https://github.com/deveshsinghal09/shadowchain-ai) · [Application](https://shadowchain-ai.vercel.app/)
+[Repository](https://github.com/deveshsinghal09/shadowchain-ai) · [Live Demo](https://shadowchain-ai.vercel.app/)
 
 ---
 
@@ -69,7 +71,7 @@ A team-built anti-money-laundering investigation workspace that turns natural-la
 
 `AWS` `Python` `FastAPI` `React` `TypeScript` `DuckDB` `scikit-learn`
 
-[Repository](https://github.com/deveshsinghal09/Sentinel-AML-Platform) · [Cloud architecture](https://github.com/deveshsinghal09/Sentinel-AML-Platform/blob/main/AWS_DEPLOYMENT.md)
+[Repository](https://github.com/deveshsinghal09/Sentinel-AML-Platform) · [Live Demo](https://sentinel-aml-demo-frontendbucket-aqfdpzq4srwb.s3.ap-south-1.amazonaws.com/index.html#/) · [Cloud architecture](https://github.com/deveshsinghal09/Sentinel-AML-Platform/blob/main/AWS_DEPLOYMENT.md)
 
 <sub>Decision support with mandatory human review; risk scores are investigative signals.</sub>
 
@@ -88,20 +90,43 @@ A dependency risk console for Node.js projects that joins npm audit and OSV advi
 
 `Next.js` `TypeScript` `SQLite` `OSV` `npm audit` `Gemini`
 
-[Repository](https://github.com/deveshsinghal09/DepShield) · [Architecture](https://github.com/deveshsinghal09/DepShield/blob/main/docs/ARCHITECTURE_V2.md)
+[Repository](https://github.com/deveshsinghal09/DepShield)
 
-## Technology
+## 💻 Tech stack
 
-Technologies used across these projects:
+Technologies used across my projects.
 
-| Area | Tools |
-| :--- | :--- |
-| Languages | Python · TypeScript · JavaScript |
-| Interfaces | React · Next.js · Three.js |
-| APIs and data | FastAPI · SQLite · DuckDB · FalkorDB · DynamoDB |
-| Cloud | AWS Lambda · API Gateway · S3 · CloudWatch · SNS · CDK |
-| AI and analysis | scikit-learn · NetworkX · Gemini · grounded LLM workflows |
-| Development | Git · GitHub · automated tests · infrastructure as code |
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-444444?style=for-the-badge&logo=threedotjs&logoColor=white)
+
+**Backend and data**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black) ![FalkorDB](https://img.shields.io/badge/FalkorDB-E84D60?style=for-the-badge&logo=&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=&logoColor=white)
+
+**AI and analysis**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![NetworkX](https://img.shields.io/badge/NetworkX-365A7A?style=for-the-badge&logo=&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+**Cloud and development**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=&logoColor=white) ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=&logoColor=white) ![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=&logoColor=white) ![API Gateway](https://img.shields.io/badge/API%20Gateway-8C4FFF?style=for-the-badge&logo=&logoColor=white) ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=&logoColor=white) ![CDK](https://img.shields.io/badge/CDK-232F3E?style=for-the-badge&logo=&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 📊 GitHub activity
+
+<p align="center">
+  <a href="https://github.com/deveshsinghal09"><img src="https://github-readme-stats.vercel.app/api?username=deveshsinghal09&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="Devesh Singhal's GitHub statistics" height="170" /></a>
+  <a href="https://github.com/deveshsinghal09?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deveshsinghal09&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Most used languages in Devesh Singhal's repositories" height="170" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/deveshsinghal09"><img src="https://streak-stats.demolab.com/?user=deveshsinghal09&amp;theme=tokyonight&amp;hide_border=true" alt="Devesh Singhal's GitHub contribution streak" /></a>
+</p>
+
+<sub>Cards request data for deveshsinghal09; no counts are hard-coded. Third-party services may be cached or temporarily unavailable. Language proportions describe repository code, not proficiency. GitHub's contribution calendar below provides native activity history.</sub>
 
 ## Problem solving
 

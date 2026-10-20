@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360">
+<rect width="1280" height="360" rx="20" fill="#0d1117"/>
+<g fill="none" stroke="#243342"><path d="M850 0v360M950 0v360M1050 0v360M1150 0v360M800 80h480M800 180h480M800 280h480"/><circle cx="1050" cy="180" r="115"/><circle cx="1050" cy="180" r="75"/></g>
+<path d="M850 280 950 180 1050 230 1150 80" fill="none" stroke="#54dfbc" stroke-width="3"/>
+<g fill="#54dfbc"><circle cx="850" cy="280" r="6"/><circle cx="950" cy="180" r="6"/><circle cx="1050" cy="230" r="6"/><circle cx="1150" cy="80" r="6"/></g>
+<text x="64" y="80" fill="#54dfbc" font-family="monospace" font-size="16" letter-spacing="4">CLOUD / AI / SECURITY</text>
+<text x="60" y="166" fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="66" font-weight="700">Devesh Singhal</text>
+<text x="64" y="220" fill="#b1becb" font-family="Segoe UI,Arial,sans-serif" font-size="24">From data and evidence to useful software.</text>
+<text x="64" y="302" fill="#7d8b9a" font-family="monospace" font-size="15">BUILD WITH INTENT. MAKE THE REASONING VISIBLE.</text>
+</svg>

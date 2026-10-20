@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600">
+<rect width="1200" height="600" fill="#0d1117"/>
+<text x="64" y="82" fill="#54dfbc" font-family="monospace" font-size="18" letter-spacing="3">DEPENDENCY RISK INTELLIGENCE</text>
+<text x="60" y="165" fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="64" font-weight="700">DepShield AI</text>
+<text x="64" y="216" fill="#a6b4c3" font-family="Segoe UI,Arial,sans-serif" font-size="24">Trace dependencies. Explain risk. Compare fixes.</text>
+<g fill="none" stroke="#45576b" stroke-width="3"><path d="M190 390H490L790 330H1030M490 390 790 470H1030"/></g>
+<g fill="#18242f" stroke="#54dfbc" stroke-width="2"><rect x="64" y="344" width="252" height="92" rx="12"/><rect x="370" y="344" width="252" height="92" rx="12"/><rect x="760" y="285" width="350" height="92" rx="12"/><rect x="760" y="425" width="350" height="92" rx="12"/></g>
+<g fill="#e6edf3" font-family="Segoe UI,Arial,sans-serif" font-size="23" text-anchor="middle"><text x="190" y="399">Lockfile inventory</text><text x="496" y="399">Evidence + context</text><text x="935" y="340">Risk prioritization</text><text x="935" y="480">Remediation comparison</text></g>
+<text x="64" y="558" fill="#7d8b9a" font-family="monospace" font-size="15">PROJECT OVERVIEW · CONCEPT DIAGRAM</text>
+</svg>
